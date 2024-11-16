@@ -1,0 +1,4 @@
+grupoSanguineo,fumante,nivelAtvFisica,idade,peso,altura,output,timestamp
+O,false,Alto,40,70,180,[423809861000000.0],2024-11-16 14:06:11.556378
+O,false,Alto,40,70.1,180,[423809861000000.0],2024-11-16 14:15:10.621943
+A,Sim,Baixo,27,77,160,233.5,2024-11-16 14:34:22.928694
